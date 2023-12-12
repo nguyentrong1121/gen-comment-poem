@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://nguyentrong1121.github.io/gen-comment-poem/",
-
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "dependencies": {
